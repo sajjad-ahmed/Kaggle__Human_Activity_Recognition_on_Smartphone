@@ -1,0 +1,1 @@
+# Kaggle__Human_Activity_Recognition_on_Smartphone
